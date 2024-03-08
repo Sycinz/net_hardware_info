@@ -1,0 +1,1 @@
+# Program written in Rust, that indicates net hardware and show it's parameters in terminal
